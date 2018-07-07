@@ -1,4 +1,4 @@
-# Salient-Relevance-Propagation
+# Saliency-Relevance-Propagation
 
 PyTorch implementation of Layer-wise Relevance Propagation based on [this tutorial][tutorial], which is used in this paper [Beyond Saliency: Understanding Convolutional Neural Networks from Saliency Prediction on Layer-Wise Relevance Propagation][beyond].  
 We also applies context-aware saliency detection which is available [here][saliency]. 
