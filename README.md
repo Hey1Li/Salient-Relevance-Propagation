@@ -16,11 +16,12 @@ We also applies context-aware saliency detection which is available [here][salie
 If you use this code for your research, please cite our paper [Beyond Saliency: Understanding Convolutional Neural Networks from Saliency Prediction on Layer-Wise Relevance Propagation][beyond]
 
 ```
-@article{li2017beyond,
-title={Beyond saliency: understanding convolutional neural networks from saliency prediction on layer-wise relevance propagation},
-author={Li, Heyi and Mueller, Klaus and Chen, Xin},
-journal={arXiv preprint arXiv:1712.08268},
-year={2017}
+@article{li2019beyond,
+  title={Beyond saliency: understanding convolutional neural networks from saliency prediction on layer-wise relevance propagation},
+  author={Li, Heyi and Tian, Yunke and Mueller, Klaus and Chen, Xin},
+  journal={Image and Vision Computing},
+  year={2019},
+  publisher={Elsevier}
 }
 ```
 
